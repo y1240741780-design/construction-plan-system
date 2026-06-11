@@ -1,0 +1,8 @@
+# 输出目录（Word文档体积大，每次生成都会变化）
+输出/
+output/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
